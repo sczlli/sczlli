@@ -8,6 +8,6 @@ LEARNING...
  </pre>
 </div>
 
-Passionate about distributed systems and OSS.   Currently focusing on observability and orchestration.
+Passionate about OSS and skateboarding.   Currently focusing on observability and orchestration.
 
 <br>
